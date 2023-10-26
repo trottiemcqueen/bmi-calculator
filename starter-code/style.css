@@ -1,0 +1,71 @@
+
+
+.section-1 {
+  background-color: aliceblue;
+  background-size: 50%;
+  border-radius: 25px;
+  width: 60em;
+  height: 40em;
+
+}
+
+
+h1, p {
+  margin-left: 5em;
+  width: 30em;
+  padding-top: 8em;
+}
+
+h1 p {
+  padding-top: -4em;
+}
+
+
+.container {
+  background-color: azure;
+  border-radius: 25px;
+  width: 30em;
+  height: 15em;
+  margin-left: 45em;
+  margin-top: -25em;
+  padding-left: 2em;
+  padding-top: 2em;
+  z-index: 1;
+  box-shadow: 5px 5px 5px 5px lightgray;
+}
+
+.output {
+  padding: -25em;
+}
+
+#bmi-output, #message {
+  margin-top: -9em;
+}
+
+.bmi-result {
+  display: flex;
+  margin-top: 10em;
+  margin-left: 5em;
+}
+
+h5 {
+  font-size: 4rem;
+  font-weight: 200;
+}
+
+.sect {
+  margin-left: 8em;
+  width: fit-content;
+}
+
+h6 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.row-1, .row-2, .row-3 {
+  display: grid;
+  grid-template-rows: auto;
+  flex-direction: row;
+}
+
