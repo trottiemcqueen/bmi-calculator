@@ -10,6 +10,7 @@
 }
 
 
+
 h1, p {
   margin-left: 5em;
   width: 30em;
@@ -18,6 +19,10 @@ h1, p {
 
 h1 p {
   padding-top: -4em;
+}
+
+h1 {
+  margin-left: 2.5em;
 }
 
 
@@ -63,9 +68,27 @@ h6 {
   font-weight: 600;
 }
 
-.row-1, .row-2, .row-3 {
+/* still working on the layout */
+.row-1,
+.row-2,
+.row-3 {
   display: grid;
-  grid-template-rows: auto;
-  flex-direction: row;
+  justify-content: space-between;
+  
+  
+}
+
+/* bottom section */
+.bmi-limits {
+  margin-left: 5em;
+}
+
+.bottom-header {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+@media max-width(1400px) {
+  
 }
 
