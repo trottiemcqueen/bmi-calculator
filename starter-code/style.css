@@ -88,7 +88,25 @@ h6 {
   font-weight: 600;
 }
 
-@media max-width(1400px) {
-  
+@media (max-width: 900px) and (min-width: 600px) {
+  .container {
+    background-color: azure;
+    border-radius: 25px;
+    width: 30em;
+    height: 15em;
+    margin-left: 45em;
+    margin-top: -25em;
+    padding-left: 2em;
+    padding-top: 2em;
+    z-index: 1;
+    box-shadow: 5px 5px 5px 5px lightgray;
+  }
+
+  .bmi-result {
+    display: flex;
+    margin-top: 10em;
+    margin-left: 5em;
+  }
 }
+
 
