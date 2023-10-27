@@ -1,3 +1,10 @@
+![Screen Shot 2023-10-27 at 11 18 20 AM](https://github.com/trottiemcqueen/bmi-calculator/assets/123763473/c5d5652f-a403-469e-a8b1-8b7da37f502b)
+
+
+
+
+
+
 # Frontend Mentor - Body Mass Index Calculator solution
 
 This is a solution to the [Body Mass Index Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -33,7 +40,6 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![Screen Shot 2023-10-27 at 11 18 20 AM](https://github.com/trottiemcqueen/bmi-calculator/assets/123763473/c5d5652f-a403-469e-a8b1-8b7da37f502b)
 
 ./assets/images/screenshot.png
 
